@@ -2,6 +2,8 @@
 ### Predict which passengers are transported to an alternate dimension
 
 * You can find all information and resources here: https://www.kaggle.com/competitions/spaceship-titanic.
+
+
 Welcome to the year 2912, where your data science skills are needed to solve a cosmic mystery. We've received a transmission from four lightyears away and things aren't looking good.
 
 
